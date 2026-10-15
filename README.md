@@ -2,7 +2,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B.svg)](https://streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=manojbalyan/parkinsons-disease-detection&branch=main&mainModule=app.py)
 [![Accuracy](https://img.shields.io/badge/Test_Accuracy-97.4%25-brightgreen.svg)]()
 [![Sensitivity](https://img.shields.io/badge/Recall_/_Sensitivity-96.6%25-success.svg)]()
 
@@ -82,7 +82,7 @@ Linear(32 -> 2)   -> Softmax Output [P(Healthy), P(Parkinson's)]
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/parkinsons-disease-detection.git
+git clone https://github.com/manojbalyan/parkinsons-disease-detection.git
 cd parkinsons-disease-detection
 ```
 
