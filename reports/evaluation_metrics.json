@@ -1,0 +1,15 @@
+{
+  "accuracy": 0.9743589743589743,
+  "precision": 1.0,
+  "recall_sensitivity": 0.9655172413793104,
+  "specificity": 1.0,
+  "f1_score": 0.9824561403508771,
+  "roc_auc": 0.9931034482758622,
+  "confusion_matrix": {
+    "true_negative": 10,
+    "false_positive": 0,
+    "false_negative": 1,
+    "true_positive": 28
+  },
+  "test_sample_count": 39
+}
